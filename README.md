@@ -191,9 +191,9 @@ Sentiment-Analysis-Using-BiLSTM/
 
 ## Author
 
-**K. Amudha**
+**SHAKTI AKASH K**
 
-Assistant Professor | Machine Learning & Deep Learning Enthusiast
+Machine Learning & Deep Learning Enthusiast
 
 ---
 
